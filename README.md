@@ -7,7 +7,8 @@
 <div>
 <a href="https://www.linkedin.com/in/leniobrandao" target="_blank"><img src="https://user-images.githubusercontent.com/102772203/161966708-21a6c4ed-6f4c-4661-98a9-7c3103f6a5f5.png"></a>
 <a href="https://www.twitter.com/BrandaoLenio" target="_blank"><img src="https://user-images.githubusercontent.com/102772203/161966411-bdbf458f-a4a7-499f-a22e-75a1ac12e545.png"></a>
-<a href="https://www.instagram.com/leniobrandao/" target="_blank"><img src="https://user-images.githubusercontent.com/102772203/161966293-90a8dc43-1e07-42ec-8c4e-c1ebd921549f.png"></a>
+<a href="https://www.instagram.com/leniobrandao" target="_blank"><img src="https://user-images.githubusercontent.com/102772203/161966293-90a8dc43-1e07-42ec-8c4e-c1ebd921549f.png"></a>
+  <a href="https://contate.me/brandaolenio" target="_blank"><img src="https://user-images.githubusercontent.com/102772203/161977440-4bbef4da-4a71-40b9-86b4-37eae4636b59.png"></a>
 </div>
 
 <p align="center">
@@ -28,3 +29,8 @@
  ☕ Um fato sobre mim é que bebo café pela manhã, tarde, noite  e madrugada. Pra café não tem hora!
  </p>
  📫 Pode me seguir e falar comigo no <a href="https://www.twitter.com/BrandaoLenio">Twitter</a> e <a href="https://www.instagram.com/leniobrandao">Instagram</a>. Se qiser uma comunicação mais imediata, fale comigo pelo <a href="https://contate.me/brandaolenio">Whatsapp</a>.
+
+<div>
+<a href="https://github.com/brandaolenio">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=brandaolenio&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
