@@ -1,4 +1,4 @@
-# <h1 align="center"> Lênio Brandão </h1>
+# Lênio Brandão
 ## <p align="center"> Olá, Devs! 👋 </p>
 ### <p align="center"> Iniciando minha jornada em desenvolvimento de aplicações </p>
 ##### Sou de Ilhéus-BA, cresci em Maceió-AL, fiz Direito na UFAL, sou cozinheiro profissional, porém sempre fui apaixonado pela área de tecnologia e programação. Atualmente estou fazendo o curso Fellowship de WebDev na Sirius Educação, e o curso de graduação em Engenharia de Software e ADS na UniBTA.
