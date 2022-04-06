@@ -1,5 +1,5 @@
-### Hi there 👋
-
+## <h1 align="center"> Olá, Devs! 👋 </h1>
+<h1 align="center"> Iniciando minha jornada em desenvolvimento de aplicações </h1>
 <!--
 **brandaolenio/brandaolenio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
