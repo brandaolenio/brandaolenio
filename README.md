@@ -6,10 +6,10 @@
 Você também pode interagir comigo por
 
 <div>
-<a href="https://www.linkedin.com/in/leniobrandao" target="_blank"><img src="https://user-images.githubusercontent.com/102772203/161966708-21a6c4ed-6f4c-4661-98a9-7c3103f6a5f5.png" alt="drawing" width="60"></a>
-<a href="https://www.twitter.com/BrandaoLenio" target="_blank"><img src="https://user-images.githubusercontent.com/102772203/161966411-bdbf458f-a4a7-499f-a22e-75a1ac12e545.png" alt="drawing" width="60"></a>
-<a href="https://www.instagram.com/leniobrandao" target="_blank"><img src="https://user-images.githubusercontent.com/102772203/161966293-90a8dc43-1e07-42ec-8c4e-c1ebd921549f.png" alt="drawing" width="65"></a>
-  <a href="https://contate.me/brandaolenio" target="_blank"><img src="https://user-images.githubusercontent.com/102772203/161977440-4bbef4da-4a71-40b9-86b4-37eae4636b59.png" alt="drawing" width="60"></a>
+<a href="https://www.linkedin.com/in/leniobrandao" target="_blank"><img src="https://user-images.githubusercontent.com/102772203/161966708-21a6c4ed-6f4c-4661-98a9-7c3103f6a5f5.png" alt="drawing" width="50"></a>
+<a href="https://www.twitter.com/BrandaoLenio" target="_blank"><img src="https://user-images.githubusercontent.com/102772203/161966411-bdbf458f-a4a7-499f-a22e-75a1ac12e545.png" alt="drawing" width="49"></a>
+<a href="https://www.instagram.com/leniobrandao" target="_blank"><img src="https://user-images.githubusercontent.com/102772203/161966293-90a8dc43-1e07-42ec-8c4e-c1ebd921549f.png" alt="drawing" width="55"></a>
+  <a href="https://contate.me/brandaolenio" target="_blank"><img src="https://user-images.githubusercontent.com/102772203/161977440-4bbef4da-4a71-40b9-86b4-37eae4636b59.png" alt="drawing" width="50"></a>
 </div>
 </p>
 <p align="center">
